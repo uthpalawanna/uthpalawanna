@@ -1,4 +1,16 @@
+
+
+  <div class="image-wrapper">
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/bb3a49d5-832e-4217-addd-a22a8905f62d" width="200" height="200" alt="Profile Image">
+</p>
+   
+  </div>
+
+
+
 <h1 align="center">Hi 👋, I'm Uthpalawanna Moratuwagama</h1>
+
 <h3 align="center">A passionate Software Enginnering Undergraduate from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uthpalawanna&label=Profile%20views&color=0e75b6&style=flat" alt="uthpalawanna" /> </p>
